@@ -1,0 +1,3 @@
+/Users/davidgaurg/Documents/C++/Hangman/cmake-build-debug/CMakeFiles/Hangman.dir
+/Users/davidgaurg/Documents/C++/Hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidgaurg/Documents/C++/Hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
